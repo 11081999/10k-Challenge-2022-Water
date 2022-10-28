@@ -13,4 +13,4 @@
 
 ## Run program
  
-**go to src>Main.py** 
+**src > Main.py** 
